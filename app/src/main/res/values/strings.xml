@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IntentMika</string>
+    <string name="move_activity">PINDAH AKTIVITI</string>
+    <string name="move_with_data">PINDAH AKTIVITI DENGAN DATA</string>
+    <string name="dial_number">PANGGIL TELEPON</string>
+    <string name="move_with_result">PINDAH AKTIVITI UNTUK RESULT</string>
+    <string name="result_from_activity">HASIL DARI AKTIVITI</string>
+    <string name="choose_color">PILIH WARNA YANG DISUKA</string>
+    <string name="activity_tugas_baru">PILIH JENIS KELAMIN DAN PRODI</string>
+    <string name="_red">MERAH</string>
+    <string name="_green">HIJAU</string>
+    <string name="_blue">BIRU</string>
+    <string name="choose">PILIH</string>
+    <string name="data_received">DATA DITERIMA</string>
+    <string name="this_ismove_activity">INI PINDAH AKTIVITI</string>
+    <string name="choose_gender">JENIS KELAMIN</string>
+    <string name="male">LAKI LAKI</string>
+    <string name="female">PEREMPUAN</string>
+    <string name="vocational">JURUSAN</string>
+    <string name="dsi">D3 - SISTEM INFORMASI</string>
+    <string name="ssi">S1 - SISTEM INFORMASI</string>
+    <string name="sti">S1 - TEKNIK INFORMATIKA</string>
+</resources>
